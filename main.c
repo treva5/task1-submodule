@@ -6,22 +6,13 @@ int main ()
   double distance = 12345.6789;
   char initial='A';
 
-  printf("The s%d",age);
-  printf("The height is %f",height);
-  printf("T
-          %lf",distance)
+  printf("The Age is%d\n",age);
+  printf("\nThe height is %f\n",height);
+  printf("\nThe distance is %lf\n",distance);
+  printf("\nThe initial is %c\n",initial);
    return 0;
 }
 
 
 
 
-/*Declare an integer variable named age and assign it the value 20.
-2. Declare a float variable named height and assign it the value 5.9.
-3. Declare a double variable named distance and assign it the value 12345.6789.
-4. Declare a character variable named initial and assign it the value &#39;A&#39;.
-
-Your task is to write the following code:
-- Declare the variables as mentioned.
-- Assign the specified values to the variables.
-- Print out the values of each variable using printf.*/
